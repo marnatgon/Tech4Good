@@ -1,0 +1,11 @@
+{
+ "beginYear": 2020,
+ "beginMonth": 1,
+ "beginDay": 30,
+ "endYear": 2021,
+ "endMonth": 1,
+ "endDay": 30,
+ "sub": "TaskRabbit",
+ "keyword": "nervous",
+ "csvFileToSave": "TaskRab2020-2021nervous.csv"
+}
